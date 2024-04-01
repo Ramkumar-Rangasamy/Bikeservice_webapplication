@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-form{
+    background-image: url('./images/1196394.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.division-main{
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 30px;
+    
+    
+}
+h1{
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold; 
+}
+.form-css{
+    background-color: rgba(126, 195, 197, 0.541);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 72px;
+}
+.form-css label{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    line-height:30px;
+}
+.division{
+    margin:100px;
+    text-align: center;   
+    color:black;
+    background-color: aqua;
+    padding:100px;
+}
+
+table{
+    width: 100%;
+    margin-top:20px;
+    margin-bottom:100px;
+    padding: 30px;
+    border-collapse: collapse;
+}
+table thead td{
+    border:3px solid black;
+}
+
+table thead tr td{
+    padding: 10px;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+
